@@ -1,0 +1,7 @@
+C:\Users\suhed\source\repos\CSharpEgitimKampi\09_MakingDecision\bin\Debug\09_MakingDecision.exe.config
+C:\Users\suhed\source\repos\CSharpEgitimKampi\09_MakingDecision\bin\Debug\09_MakingDecision.exe
+C:\Users\suhed\source\repos\CSharpEgitimKampi\09_MakingDecision\bin\Debug\09_MakingDecision.pdb
+C:\Users\suhed\source\repos\CSharpEgitimKampi\09_MakingDecision\obj\Debug\09_MakingDecision.csproj.AssemblyReference.cache
+C:\Users\suhed\source\repos\CSharpEgitimKampi\09_MakingDecision\obj\Debug\09_MakingDecision.csproj.CoreCompileInputs.cache
+C:\Users\suhed\source\repos\CSharpEgitimKampi\09_MakingDecision\obj\Debug\09_MakingDecision.exe
+C:\Users\suhed\source\repos\CSharpEgitimKampi\09_MakingDecision\obj\Debug\09_MakingDecision.pdb
